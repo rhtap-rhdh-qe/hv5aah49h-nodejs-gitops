@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hv5aah49h-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hv5aah49h-nodejs
